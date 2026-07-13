@@ -5,7 +5,7 @@ A minimal Python SDK for the [HackerNews Firebase API](https://github.com/Hacker
 ## Install
 
 ```bash
-pip install hn-sdk
+pip install git+https://github.com/PETER-web-png/hn-sdk.git
 ```
 
 ## Usage
